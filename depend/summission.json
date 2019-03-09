@@ -1,0 +1,23 @@
+[
+  {
+    "username": "Bhavnesh",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "summissionId": 1,
+    "courseId": "1",
+    "exerciseId": "2"
+  },
+  {
+    "username": "Bhavnesh",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "summissionId": 2,
+    "courseId": "1",
+    "exerciseId": "2"
+  },
+  {
+    "username": "Bhavnesh",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "summissionId": 3,
+    "courseId": "1",
+    "exerciseId": "2"
+  }
+]

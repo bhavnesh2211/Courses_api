@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Introduction",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "exerciseId": 1,
+    "courseId": "1"
+  },
+  {
+    "name": "bhavnesh",
+    "content": "Iss exercise mein.",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "exerciseId": 2,
+    "courseId": "1"
+  },
+  {
+    "name": "Introduction",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "exerciseId": 3,
+    "courseId": "1"
+  },
+  {
+    "name": "Introduction",
+    "content": "Iss exercise mein aapne yeh sab karna hai.",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "exerciseId": 4,
+    "courseId": "1"
+  }
+]
